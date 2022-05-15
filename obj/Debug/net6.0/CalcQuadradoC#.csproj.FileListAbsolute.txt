@@ -1,0 +1,15 @@
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.csproj.AssemblyReference.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.AssemblyInfoInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.AssemblyInfo.cs
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.csproj.CoreCompileInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\bin\Debug\net6.0\CalcQuadradoC#.exe
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\bin\Debug\net6.0\CalcQuadradoC#.deps.json
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\bin\Debug\net6.0\CalcQuadradoC#.runtimeconfig.json
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\bin\Debug\net6.0\CalcQuadradoC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\bin\Debug\net6.0\CalcQuadradoC#.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\refint\CalcQuadradoC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\CalcQuadradoC#.genruntimeconfig.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\CalcQuadradoC#\obj\Debug\net6.0\ref\CalcQuadradoC#.dll
